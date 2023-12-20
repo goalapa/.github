@@ -7,7 +7,7 @@
 <br/>
 
 ## 📝 PPT
-[Cacamuca PPT](https://docs.google.com/presentation/d/1yONZjXBWja2FH9xkFYXS6o7l_Pr_GsSr/edit?usp=sharing&ouid=109438832189200987789&rtpof=true&sd=true)
+[Cacamuca PPT](https://drive.google.com/file/d/1ybAQNNIGrZuF6BmB4aDkUKQl9ZM6d_2g/view)
 
 <br/>
 <br/>
