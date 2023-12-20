@@ -13,7 +13,7 @@
 <br/>
 
 ## ⭐️ Wiki
-[Introduce](https://github.com/goalapa/spring-cacamuca/wiki/%EA%B9%8C%EA%B9%8C%EB%AC%B4%EA%B9%8C-%EC%86%8C%EA%B0%9C)
+[까까무까를 소개합니다!](https://github.com/goalapa/spring-cacamuca/wiki/%EA%B9%8C%EA%B9%8C%EB%AC%B4%EA%B9%8C-%EC%86%8C%EA%B0%9C)
 
 <br/>
 <br/>
